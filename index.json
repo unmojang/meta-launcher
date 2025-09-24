@@ -18,7 +18,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "d402bbbe655c887c4c0b3d9dbf52f23d8ae02c246717ad96f9d332b906e0ab1f",
+            "sha256": "a793a47ac095cb785f94015c6d401aa72ae6453413f7447de2446b7fdda929b2",
             "uid": "net.adoptium.java"
         },
         {
@@ -28,12 +28,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "a31e16d57138789576a5dca0d686087fc4256740fff9b52a241ba9fb32289d0e",
+            "sha256": "6fbc402fb5f0835f3729821696b2f4b21f7a287c55a30509d823d6cd72ea2026",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "7767d10128cda1b0a4237fcc414985ddb046d4fcc795d3b35e83274c8b719cbd",
+            "sha256": "587155ce14fcba2c2db6ee6ca257585095b88970a980f0fb33830a6ffed0cfa0",
             "uid": "net.minecraft"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "name": "Forge",
-            "sha256": "597a4ba8ca78272e5abb07709718e72c6eec408073a28a1fa10a782d19a8e5ef",
+            "sha256": "3ef909b1dc872771232c27b06dd65c84a24f0fe8dd60621d3f7c2dbff615b4a2",
             "uid": "net.minecraftforge"
         },
         {
