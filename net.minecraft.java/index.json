@@ -23,8 +23,8 @@
         },
         {
             "recommended": false,
-            "releaseTime": "2020-11-17T19:06:44+00:00",
-            "sha256": "21db2ac13de6cec6aa2d3452702076ec5831b10b90d5837e59e0873964acc3d8",
+            "releaseTime": "2020-11-17T19:26:25+00:00",
+            "sha256": "9e80705322c65449f32f21339be8901a48950dc50137a5172d3ce989e383d0e5",
             "version": "java8"
         }
     ]
