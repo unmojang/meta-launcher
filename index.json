@@ -13,7 +13,7 @@
         },
         {
             "name": "authlib-injector",
-            "sha256": "474a2751a51814885902c0a6e8a126e20e54bee68c50e5de9dcdeee4b7a882ee",
+            "sha256": "86396fd2d9d10e7d510447c8c214f2c31b41710204ceed7b6506f7958be82c54",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -28,7 +28,7 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "9488f1ea2cb55402b58c250bae5c02e2ade303765ea90059ec2224dda087dfa8",
+            "sha256": "074aa2a5b28a88425303b320e0859e1831fe66c2d335ff9f1e7fbb822cfe4625",
             "uid": "net.fabricmc.intermediary"
         },
         {
@@ -48,17 +48,17 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "7c82b9783e439f6271c0620277c060f3927c4f6e4639977c7f8fb914ff932b52",
+            "sha256": "729f6c87bc2cc06b3d5740fa4f85ac3b1c74451968a9aef5d715cd87cdbfd6b9",
             "uid": "net.neoforged"
         },
         {
             "name": "LWJGL 2",
-            "sha256": "615fbfcf5d608543038c06f7da46b7c8d9c3d4179dbd7692edc09957624d3e52",
+            "sha256": "6c258e4ed40ec6f49562a5b15c93d2d411ef07c0fb842d08b71e0d3d9df7ab4d",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "4672abd9a62d4734cd5c15770b18454c4a2a755023f03d4385c2cb9d60f0266b",
+            "sha256": "2b362c5f994f2c7144900814b00127f70d8955c082c759083551c32bf8f44ae3",
             "uid": "org.lwjgl3"
         },
         {
