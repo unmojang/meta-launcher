@@ -4348,20 +4348,6 @@
             "releaseTime": "2020-10-15T21:23:37+00:00",
             "requires": [
                 {
-                    "equals": "3D Shareware v1.34",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "0e0417adcd3411466cbf6dad3d85da1c0f98804665d0659c1c4cd8339d8259dd",
-            "type": "release",
-            "version": "3D Shareware v1.34",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:23:37+00:00",
-            "requires": [
-                {
                     "equals": "20w30a",
                     "uid": "net.minecraft"
                 }
@@ -4369,6 +4355,20 @@
             "sha256": "c701940cac1971c4c22cd1c1510529a691bbd04035fda18dfc9b99cb66815a38",
             "type": "release",
             "version": "20w30a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:23:37+00:00",
+            "requires": [
+                {
+                    "equals": "3D Shareware v1.34",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "0e0417adcd3411466cbf6dad3d85da1c0f98804665d0659c1c4cd8339d8259dd",
+            "type": "release",
+            "version": "3D Shareware v1.34",
             "volatile": true
         },
         {
@@ -4390,20 +4390,6 @@
             "releaseTime": "2020-10-15T21:23:35+00:00",
             "requires": [
                 {
-                    "equals": "20w28a",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "720e0afeaefd93b02cd8c721cc50fe11e3be40ffe3928e25b7adb97d5e661648",
-            "type": "release",
-            "version": "20w28a",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:23:35+00:00",
-            "requires": [
-                {
                     "equals": "20w27a",
                     "uid": "net.minecraft"
                 }
@@ -4411,6 +4397,20 @@
             "sha256": "e90765df4d083b7277a33cdcc5587300ed955d5d187f92d406a14bb01c2ffcdd",
             "type": "release",
             "version": "20w27a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:23:35+00:00",
+            "requires": [
+                {
+                    "equals": "20w28a",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "720e0afeaefd93b02cd8c721cc50fe11e3be40ffe3928e25b7adb97d5e661648",
+            "type": "release",
+            "version": "20w28a",
             "volatile": true
         },
         {
@@ -4488,20 +4488,6 @@
             "releaseTime": "2020-10-15T21:23:31+00:00",
             "requires": [
                 {
-                    "equals": "20w17a",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "d8be3887be6f4e78be7d2fb24df21a47c5500867ba91928f33e2cb718ea64214",
-            "type": "release",
-            "version": "20w17a",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:23:31+00:00",
-            "requires": [
-                {
                     "equals": "20w18a",
                     "uid": "net.minecraft"
                 }
@@ -4513,16 +4499,16 @@
         },
         {
             "recommended": true,
-            "releaseTime": "2020-10-15T21:23:30+00:00",
+            "releaseTime": "2020-10-15T21:23:31+00:00",
             "requires": [
                 {
-                    "equals": "20w16a",
+                    "equals": "20w17a",
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "08caec253fc6f5fb75fa8e693fa7602be8dc1776d57f5c4ed9fa9de94d8dba72",
+            "sha256": "d8be3887be6f4e78be7d2fb24df21a47c5500867ba91928f33e2cb718ea64214",
             "type": "release",
-            "version": "20w16a",
+            "version": "20w17a",
             "volatile": true
         },
         {
@@ -4537,6 +4523,20 @@
             "sha256": "3d946e34c6632899a109afb1e8445717ea3e25bcb138f2f6c364cddbc1828bfd",
             "type": "release",
             "version": "20w15a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:23:30+00:00",
+            "requires": [
+                {
+                    "equals": "20w16a",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "08caec253fc6f5fb75fa8e693fa7602be8dc1776d57f5c4ed9fa9de94d8dba72",
+            "type": "release",
+            "version": "20w16a",
             "volatile": true
         },
         {
@@ -4768,20 +4768,6 @@
             "releaseTime": "2020-10-15T21:23:19+00:00",
             "requires": [
                 {
-                    "equals": "19w42a",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "e97871a6bd38b55c299f7eb48653524c7cd3ba57e0617343ee2bbdb1f85ed244",
-            "type": "release",
-            "version": "19w42a",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:23:19+00:00",
-            "requires": [
-                {
                     "equals": "19w41a",
                     "uid": "net.minecraft"
                 }
@@ -4789,6 +4775,20 @@
             "sha256": "f4af3fa1e996ec0861519f413af89fb410713775a18c94572ce5e31468d9a826",
             "type": "release",
             "version": "19w41a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:23:19+00:00",
+            "requires": [
+                {
+                    "equals": "19w42a",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "e97871a6bd38b55c299f7eb48653524c7cd3ba57e0617343ee2bbdb1f85ed244",
+            "type": "release",
+            "version": "19w42a",
             "volatile": true
         },
         {
@@ -4894,20 +4894,6 @@
             "releaseTime": "2020-10-15T21:23:14+00:00",
             "requires": [
                 {
-                    "equals": "19w14b",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "fbd68e090d2a91f87a9fda3b70ebecd5a690c32c39ffee5788f8e3d69905799f",
-            "type": "release",
-            "version": "19w14b",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:23:14+00:00",
-            "requires": [
-                {
                     "equals": "19w34a",
                     "uid": "net.minecraft"
                 }
@@ -4919,16 +4905,16 @@
         },
         {
             "recommended": true,
-            "releaseTime": "2020-10-15T21:23:13+00:00",
+            "releaseTime": "2020-10-15T21:23:14+00:00",
             "requires": [
                 {
-                    "equals": "19w13b",
+                    "equals": "19w14b",
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "c3cd599f67e24eacd24acca1dcf5bee162a6feb7cba9a4c8607f1f3a87753123",
+            "sha256": "fbd68e090d2a91f87a9fda3b70ebecd5a690c32c39ffee5788f8e3d69905799f",
             "type": "release",
-            "version": "19w13b",
+            "version": "19w14b",
             "volatile": true
         },
         {
@@ -4947,16 +4933,16 @@
         },
         {
             "recommended": true,
-            "releaseTime": "2020-10-15T21:23:12+00:00",
+            "releaseTime": "2020-10-15T21:23:13+00:00",
             "requires": [
                 {
-                    "equals": "19w12b",
+                    "equals": "19w13b",
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "67f0e655a0f1101930d75c24a39bd1e0dacf7f05bf7b1ce6c3bf56d1ad3b0394",
+            "sha256": "c3cd599f67e24eacd24acca1dcf5bee162a6feb7cba9a4c8607f1f3a87753123",
             "type": "release",
-            "version": "19w12b",
+            "version": "19w13b",
             "volatile": true
         },
         {
@@ -4975,16 +4961,16 @@
         },
         {
             "recommended": true,
-            "releaseTime": "2020-10-15T21:23:11+00:00",
+            "releaseTime": "2020-10-15T21:23:12+00:00",
             "requires": [
                 {
-                    "equals": "19w11b",
+                    "equals": "19w12b",
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "2b35fbf227b3e4eef323223bae414d20a47b78a48f6e12ae072dd0d72e3f6eaa",
+            "sha256": "67f0e655a0f1101930d75c24a39bd1e0dacf7f05bf7b1ce6c3bf56d1ad3b0394",
             "type": "release",
-            "version": "19w11b",
+            "version": "19w12b",
             "volatile": true
         },
         {
@@ -4999,6 +4985,20 @@
             "sha256": "251ae151f72f8a1ba37e27f009e0851dc2983ebf822d356f6ed1228c4c95835f",
             "type": "release",
             "version": "19w12a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:23:11+00:00",
+            "requires": [
+                {
+                    "equals": "19w11b",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "2b35fbf227b3e4eef323223bae414d20a47b78a48f6e12ae072dd0d72e3f6eaa",
+            "type": "release",
+            "version": "19w11b",
             "volatile": true
         },
         {
@@ -5020,20 +5020,6 @@
             "releaseTime": "2020-10-15T21:23:09+00:00",
             "requires": [
                 {
-                    "equals": "19w09a",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "d3d9f77db0891f2c766419b88f71a33e8a84bc5d366a70ca27cd9e08c2bb213f",
-            "type": "release",
-            "version": "19w09a",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:23:09+00:00",
-            "requires": [
-                {
                     "equals": "19w08b",
                     "uid": "net.minecraft"
                 }
@@ -5041,6 +5027,20 @@
             "sha256": "ab33d29b12ee0c5d7a780c83b3938a39c693f43e89a60647fa289e0bfc9d5d14",
             "type": "release",
             "version": "19w08b",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:23:09+00:00",
+            "requires": [
+                {
+                    "equals": "19w09a",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "d3d9f77db0891f2c766419b88f71a33e8a84bc5d366a70ca27cd9e08c2bb213f",
+            "type": "release",
+            "version": "19w09a",
             "volatile": true
         },
         {
@@ -5076,20 +5076,6 @@
             "releaseTime": "2020-10-15T21:23:07+00:00",
             "requires": [
                 {
-                    "equals": "19w05a",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "290b52ffb516e91bbb3a6effa967e2712fb19611c82ac4e928773acfae207b41",
-            "type": "release",
-            "version": "19w05a",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:23:07+00:00",
-            "requires": [
-                {
                     "equals": "19w06a",
                     "uid": "net.minecraft"
                 }
@@ -5101,16 +5087,16 @@
         },
         {
             "recommended": true,
-            "releaseTime": "2020-10-15T21:23:06+00:00",
+            "releaseTime": "2020-10-15T21:23:07+00:00",
             "requires": [
                 {
-                    "equals": "19w04b",
+                    "equals": "19w05a",
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "e8bde4b2aadb0e170fe163ceb11598ec774e17e48f886bd53dd8dcd25ad15042",
+            "sha256": "290b52ffb516e91bbb3a6effa967e2712fb19611c82ac4e928773acfae207b41",
             "type": "release",
-            "version": "19w04b",
+            "version": "19w05a",
             "volatile": true
         },
         {
@@ -5125,6 +5111,20 @@
             "sha256": "316f33bd1c82ca1d00bff03f66b37fdb91b1d05ecd3df182f1bae4237d14d154",
             "type": "release",
             "version": "19w04a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:23:06+00:00",
+            "requires": [
+                {
+                    "equals": "19w04b",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "e8bde4b2aadb0e170fe163ceb11598ec774e17e48f886bd53dd8dcd25ad15042",
+            "type": "release",
+            "version": "19w04b",
             "volatile": true
         },
         {
@@ -5188,20 +5188,6 @@
             "releaseTime": "2020-10-15T21:23:03+00:00",
             "requires": [
                 {
-                    "equals": "18w50a",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "cf4105fa522a22ee96e5acf44094b0b44d8df6f3c29edd2266212cf5a95f2ae3",
-            "type": "release",
-            "version": "18w50a",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:23:03+00:00",
-            "requires": [
-                {
                     "equals": "18w49a",
                     "uid": "net.minecraft"
                 }
@@ -5209,6 +5195,20 @@
             "sha256": "a98a7f48500c0c6a6f1d50cc71fef19fc9da0aa889e2e6d21863a7bb7809fb35",
             "type": "release",
             "version": "18w49a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:23:03+00:00",
+            "requires": [
+                {
+                    "equals": "18w50a",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "cf4105fa522a22ee96e5acf44094b0b44d8df6f3c29edd2266212cf5a95f2ae3",
+            "type": "release",
+            "version": "18w50a",
             "volatile": true
         },
         {
@@ -5314,20 +5314,6 @@
             "releaseTime": "2020-10-15T21:22:58+00:00",
             "requires": [
                 {
-                    "equals": "18w43c",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "5705bea212cf12f697cb50a0e1bcae086cc28faa1fdf1b364cfcf4cab5892c11",
-            "type": "release",
-            "version": "18w43c",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:22:58+00:00",
-            "requires": [
-                {
                     "equals": "18w43b",
                     "uid": "net.minecraft"
                 }
@@ -5335,6 +5321,20 @@
             "sha256": "dd9a664db8b0a5386c260b813497b3f4c4c1f39af941851f6c194aac1600a215",
             "type": "release",
             "version": "18w43b",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:22:58+00:00",
+            "requires": [
+                {
+                    "equals": "18w43c",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "5705bea212cf12f697cb50a0e1bcae086cc28faa1fdf1b364cfcf4cab5892c11",
+            "type": "release",
+            "version": "18w43c",
             "volatile": true
         },
         {
@@ -5440,20 +5440,6 @@
             "releaseTime": "2020-10-15T21:22:53+00:00",
             "requires": [
                 {
-                    "equals": "1.16.2-rc1",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "d25131c9c2d6f789d46a73dd1445192246ac3b5aee476a9a4fc6b4c14c8db227",
-            "type": "release",
-            "version": "1.16.2-rc1",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:22:53+00:00",
-            "requires": [
-                {
                     "equals": "1.16.2-pre3",
                     "uid": "net.minecraft"
                 }
@@ -5461,6 +5447,20 @@
             "sha256": "5d14a14e6a4e77516bda8701fa3b6d992a33b703e192f26b693d4171b5937a10",
             "type": "release",
             "version": "1.16.2-pre3",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:22:53+00:00",
+            "requires": [
+                {
+                    "equals": "1.16.2-rc1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "d25131c9c2d6f789d46a73dd1445192246ac3b5aee476a9a4fc6b4c14c8db227",
+            "type": "release",
+            "version": "1.16.2-rc1",
             "volatile": true
         },
         {
@@ -5482,20 +5482,6 @@
             "releaseTime": "2020-10-15T21:22:51+00:00",
             "requires": [
                 {
-                    "equals": "1.16.2-pre1",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "c84d067229192cf7edb9f85f5f91ea6ada3cb0d2777d65844400cabbec34cd56",
-            "type": "release",
-            "version": "1.16.2-pre1",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:22:51+00:00",
-            "requires": [
-                {
                     "equals": "1.16.1",
                     "uid": "net.minecraft"
                 }
@@ -5503,6 +5489,20 @@
             "sha256": "07c6073e5219380e7152b628ab8cf3beb8d8feb38e1c6211bb1f6ef3799fcdea",
             "type": "release",
             "version": "1.16.1",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:22:51+00:00",
+            "requires": [
+                {
+                    "equals": "1.16.2-pre1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "c84d067229192cf7edb9f85f5f91ea6ada3cb0d2777d65844400cabbec34cd56",
+            "type": "release",
+            "version": "1.16.2-pre1",
             "volatile": true
         },
         {
@@ -5538,20 +5538,6 @@
             "releaseTime": "2020-10-15T21:22:49+00:00",
             "requires": [
                 {
-                    "equals": "1.16-pre6",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "2106608d24839c5d6c7e9a3c1b53be445e155aa7f2c4a5604d685052c40c393d",
-            "type": "release",
-            "version": "1.16-pre6",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:22:49+00:00",
-            "requires": [
-                {
                     "equals": "1.16-pre7",
                     "uid": "net.minecraft"
                 }
@@ -5559,6 +5545,20 @@
             "sha256": "1d1d2bea57d8de7f0dd5b6cdb4dc43a1bd1f9e6c716d42d1be8f27ff36579ad3",
             "type": "release",
             "version": "1.16-pre7",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:22:49+00:00",
+            "requires": [
+                {
+                    "equals": "1.16-pre6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "2106608d24839c5d6c7e9a3c1b53be445e155aa7f2c4a5604d685052c40c393d",
+            "type": "release",
+            "version": "1.16-pre6",
             "volatile": true
         },
         {
@@ -5580,20 +5580,6 @@
             "releaseTime": "2020-10-15T21:22:47+00:00",
             "requires": [
                 {
-                    "equals": "1.16-pre4",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "b26d18eceb8dbfdadd4f78c2a977ca228d96b3f15827b23066bec70bf807e0a0",
-            "type": "release",
-            "version": "1.16-pre4",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:22:47+00:00",
-            "requires": [
-                {
                     "equals": "1.16-pre3",
                     "uid": "net.minecraft"
                 }
@@ -5601,6 +5587,20 @@
             "sha256": "4125ddea6cf38179db67d848a774f94bd5f7639da8431045355885e19a5806db",
             "type": "release",
             "version": "1.16-pre3",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:22:47+00:00",
+            "requires": [
+                {
+                    "equals": "1.16-pre4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "b26d18eceb8dbfdadd4f78c2a977ca228d96b3f15827b23066bec70bf807e0a0",
+            "type": "release",
+            "version": "1.16-pre4",
             "volatile": true
         },
         {
@@ -5762,20 +5762,6 @@
             "releaseTime": "2020-10-15T21:22:40+00:00",
             "requires": [
                 {
-                    "equals": "1.15-pre5",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "a308c1402c56a175f55017d64260de9dd3d9bc0a769359ab42bafaa70f919461",
-            "type": "release",
-            "version": "1.15-pre5",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:22:40+00:00",
-            "requires": [
-                {
                     "equals": "1.15-pre4",
                     "uid": "net.minecraft"
                 }
@@ -5783,6 +5769,20 @@
             "sha256": "b27fb7faa87db8f263f26c834e15d84d0cb2cee9579989501ae0dc3c5474e52c",
             "type": "release",
             "version": "1.15-pre4",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:22:40+00:00",
+            "requires": [
+                {
+                    "equals": "1.15-pre5",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "a308c1402c56a175f55017d64260de9dd3d9bc0a769359ab42bafaa70f919461",
+            "type": "release",
+            "version": "1.15-pre5",
             "volatile": true
         },
         {
@@ -5972,20 +5972,6 @@
             "releaseTime": "2020-10-15T21:22:31+00:00",
             "requires": [
                 {
-                    "equals": "1.14.4-pre6",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "c4e499af7bea7275aa999e390c842ab1b911ef859c8628305a4c727b61943e32",
-            "type": "release",
-            "version": "1.14.4-pre6",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:22:31+00:00",
-            "requires": [
-                {
                     "equals": "1.14.4-pre7",
                     "uid": "net.minecraft"
                 }
@@ -5997,16 +5983,16 @@
         },
         {
             "recommended": true,
-            "releaseTime": "2020-10-15T21:22:30+00:00",
+            "releaseTime": "2020-10-15T21:22:31+00:00",
             "requires": [
                 {
-                    "equals": "1.14.4-pre4",
+                    "equals": "1.14.4-pre6",
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "477c87f269a45c45ff6ae6a9ce0144efcb4f3d5f66b927dcc7a5e01503b7cdd0",
+            "sha256": "c4e499af7bea7275aa999e390c842ab1b911ef859c8628305a4c727b61943e32",
             "type": "release",
-            "version": "1.14.4-pre4",
+            "version": "1.14.4-pre6",
             "volatile": true
         },
         {
@@ -6021,6 +6007,20 @@
             "sha256": "3a465f8e097ffb1e0eab9586b3b3af38dd72ebcf0a19c5351640002fbd20be77",
             "type": "release",
             "version": "1.14.4-pre5",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:22:30+00:00",
+            "requires": [
+                {
+                    "equals": "1.14.4-pre4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "477c87f269a45c45ff6ae6a9ce0144efcb4f3d5f66b927dcc7a5e01503b7cdd0",
+            "type": "release",
+            "version": "1.14.4-pre4",
             "volatile": true
         },
         {
@@ -6070,20 +6070,6 @@
             "releaseTime": "2020-10-15T21:22:27+00:00",
             "requires": [
                 {
-                    "equals": "1.14.3",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "a28d1528eddf938ac818e2afd0f25b11f9146afea73e5ba519a444db14b862df",
-            "type": "release",
-            "version": "1.14.3",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:22:27+00:00",
-            "requires": [
-                {
                     "equals": "1.14.3-pre4",
                     "uid": "net.minecraft"
                 }
@@ -6091,6 +6077,20 @@
             "sha256": "bf11029045c1a895f746e80c8bafcc1e0a088707f4accc78650efaac0f4de408",
             "type": "release",
             "version": "1.14.3-pre4",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:22:27+00:00",
+            "requires": [
+                {
+                    "equals": "1.14.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "a28d1528eddf938ac818e2afd0f25b11f9146afea73e5ba519a444db14b862df",
+            "type": "release",
+            "version": "1.14.3",
             "volatile": true
         },
         {
@@ -6154,20 +6154,6 @@
             "releaseTime": "2020-10-15T21:22:24+00:00",
             "requires": [
                 {
-                    "equals": "1.14.2 Pre-Release 3",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "89d65ed2ae7d3d561a0fd15e15c569e9024ade8b70fd0d899b407312539c5bb9",
-            "type": "release",
-            "version": "1.14.2 Pre-Release 3",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:22:24+00:00",
-            "requires": [
-                {
                     "equals": "1.14.2 Pre-Release 4",
                     "uid": "net.minecraft"
                 }
@@ -6175,6 +6161,20 @@
             "sha256": "466d5107ac97f9dfdb1889e35c617188fb9698aededdc1a5faffde00422e9e34",
             "type": "release",
             "version": "1.14.2 Pre-Release 4",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:22:24+00:00",
+            "requires": [
+                {
+                    "equals": "1.14.2 Pre-Release 3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "89d65ed2ae7d3d561a0fd15e15c569e9024ade8b70fd0d899b407312539c5bb9",
+            "type": "release",
+            "version": "1.14.2 Pre-Release 3",
             "volatile": true
         },
         {
@@ -6224,20 +6224,6 @@
             "releaseTime": "2020-10-15T21:22:21+00:00",
             "requires": [
                 {
-                    "equals": "1.14.1 Pre-Release 2",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "5add9026d4bc31f7d553b80590d6b46bdc959e0c089963eabc7ae1a1a668625c",
-            "type": "release",
-            "version": "1.14.1 Pre-Release 2",
-            "volatile": true
-        },
-        {
-            "recommended": true,
-            "releaseTime": "2020-10-15T21:22:21+00:00",
-            "requires": [
-                {
                     "equals": "1.14.1 Pre-Release 1",
                     "uid": "net.minecraft"
                 }
@@ -6245,6 +6231,20 @@
             "sha256": "adf803730ce7a776122f3c8b1147e5a6936a020359459c6b97d596eb31285c76",
             "type": "release",
             "version": "1.14.1 Pre-Release 1",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2020-10-15T21:22:21+00:00",
+            "requires": [
+                {
+                    "equals": "1.14.1 Pre-Release 2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "5add9026d4bc31f7d553b80590d6b46bdc959e0c089963eabc7ae1a1a668625c",
+            "type": "release",
+            "version": "1.14.1 Pre-Release 2",
             "volatile": true
         }
     ]
