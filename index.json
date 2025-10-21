@@ -13,7 +13,7 @@
         },
         {
             "name": "authlib-injector",
-            "sha256": "86396fd2d9d10e7d510447c8c214f2c31b41710204ceed7b6506f7958be82c54",
+            "sha256": "474a2751a51814885902c0a6e8a126e20e54bee68c50e5de9dcdeee4b7a882ee",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -28,7 +28,7 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "074aa2a5b28a88425303b320e0859e1831fe66c2d335ff9f1e7fbb822cfe4625",
+            "sha256": "9488f1ea2cb55402b58c250bae5c02e2ade303765ea90059ec2224dda087dfa8",
             "uid": "net.fabricmc.intermediary"
         },
         {
@@ -43,22 +43,22 @@
         },
         {
             "name": "Forge",
-            "sha256": "3e4d95b3c2b6283bffed9eec7381e8a02d2970ab77ca71bd23f7319149da4b2f",
+            "sha256": "2165d67be9f0dea842940b5924c2a2664638fd7c8f6f99172033c808952b21bf",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "4d6e22297472545883b021cfe7a93ecebb33527be294945a29989604a66ba6c9",
+            "sha256": "471d85c6f4678e0692bd1ab89a056e1153206bfbcef1ed386d4620a9f6b09dc5",
             "uid": "net.neoforged"
         },
         {
             "name": "LWJGL 2",
-            "sha256": "6c258e4ed40ec6f49562a5b15c93d2d411ef07c0fb842d08b71e0d3d9df7ab4d",
+            "sha256": "615fbfcf5d608543038c06f7da46b7c8d9c3d4179dbd7692edc09957624d3e52",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "2b362c5f994f2c7144900814b00127f70d8955c082c759083551c32bf8f44ae3",
+            "sha256": "4672abd9a62d4734cd5c15770b18454c4a2a755023f03d4385c2cb9d60f0266b",
             "uid": "org.lwjgl3"
         },
         {
