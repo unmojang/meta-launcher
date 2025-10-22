@@ -43,6 +43,26 @@
         },
         {
             "checksum": {
+                "hash": "78e31aa15b3f437f37263351436f63e0a96e0067",
+                "type": "sha1"
+            },
+            "downloadType": "manifest",
+            "name": "jre-legacy",
+            "packageType": "jre",
+            "releaseTime": "2025-10-07T07:43:14+00:00",
+            "runtimeOS": "mac-os-x64",
+            "url": "https://piston-meta.mojang.com/v1/packages/78e31aa15b3f437f37263351436f63e0a96e0067/manifest.json",
+            "vendor": "mojang",
+            "version": {
+                "buildstr": "cacert462b08",
+                "major": 8,
+                "minor": 0,
+                "name": "8u74-cacert462b08",
+                "security": 74
+            }
+        },
+        {
+            "checksum": {
                 "hash": "ccc88ca0b997c8ed7d0bae9120ed0fca740559db3fb9673fd8d580185c45c986",
                 "type": "sha256"
             },
@@ -57,6 +77,46 @@
                 "major": 8,
                 "minor": 0,
                 "security": 462
+            }
+        },
+        {
+            "checksum": {
+                "hash": "03828bb8455f3cef94869286a0d941dd16933239",
+                "type": "sha1"
+            },
+            "downloadType": "manifest",
+            "name": "jre-legacy",
+            "packageType": "jre",
+            "releaseTime": "2025-10-06T13:49:59+00:00",
+            "runtimeOS": "windows-x64",
+            "url": "https://piston-meta.mojang.com/v1/packages/03828bb8455f3cef94869286a0d941dd16933239/manifest.json",
+            "vendor": "mojang",
+            "version": {
+                "buildstr": "cacert462b08",
+                "major": 8,
+                "minor": 0,
+                "name": "8u51-cacert462b08",
+                "security": 51
+            }
+        },
+        {
+            "checksum": {
+                "hash": "aa4b820bca217df2ff9bc9b5eaa03907461f5517",
+                "type": "sha1"
+            },
+            "downloadType": "manifest",
+            "name": "jre-legacy",
+            "packageType": "jre",
+            "releaseTime": "2025-10-06T14:01:29+00:00",
+            "runtimeOS": "windows-x86",
+            "url": "https://piston-meta.mojang.com/v1/packages/aa4b820bca217df2ff9bc9b5eaa03907461f5517/manifest.json",
+            "vendor": "mojang",
+            "version": {
+                "buildstr": "cacert462b08",
+                "major": 8,
+                "minor": 0,
+                "name": "8u51-cacert462b08",
+                "security": 51
             }
         },
         {
