@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "Java Runtimes",
-            "sha256": "4ec947905cfd9aa3f799bbfe35bcc8849e2769345e7bb94352c7d54d255ba204",
+            "sha256": "51594bdd9c661a8b332418d9872c54c7f485df8e661e51114a98b062f468d195",
             "uid": "com.azul.java"
         },
         {
@@ -38,17 +38,17 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "238f300031e473127f4faa56b005be6692b9355475385098d7abf8dc8139c2e5",
+            "sha256": "e86afd8e2c3f31a0295ca392268fc81dde2083cc3656e2b17bbb4497bf8f5290",
             "uid": "net.minecraft.java"
         },
         {
             "name": "Forge",
-            "sha256": "7568433c2ef063ac1289a358b6af50ed5e048487ea053975b15414231c8c1962",
+            "sha256": "54c06447577fe9b365e18ccaa0ce81d27e608694099fec51608374853cfe0578",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "471d85c6f4678e0692bd1ab89a056e1153206bfbcef1ed386d4620a9f6b09dc5",
+            "sha256": "9f482b2f2623e51663e8ebe35411a9f5ad1f3729351f674b06878fc190652db5",
             "uid": "net.neoforged"
         },
         {
