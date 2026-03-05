@@ -591,7 +591,7 @@
                 "artifact": {
                     "sha1": "cc9c8098e1c32c4d443b80fa20b1b02c5c3dbff2",
                     "size": 8200548,
-                    "url": "https://maven.neoforged.net/net/neoforged/neoforge/20.4.38-beta/neoforge-20.4.38-beta-installer.jar"
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.4.38-beta/neoforge-20.4.38-beta-installer.jar"
                 }
             },
             "name": "net.neoforged:neoforge:20.4.38-beta:installer"
