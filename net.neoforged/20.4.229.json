@@ -536,7 +536,7 @@
                 "artifact": {
                     "sha1": "2450e47b4f429c239affbfd856c082277ed8cebb",
                     "size": 8736126,
-                    "url": "https://maven.neoforged.net/net/neoforged/neoforge/20.4.229/neoforge-20.4.229-installer.jar"
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.4.229/neoforge-20.4.229-installer.jar"
                 }
             },
             "name": "net.neoforged:neoforge:20.4.229:installer"
