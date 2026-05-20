@@ -12,7 +12,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "01857d9f9b4459ec8a14aed5103893801891fece0b980990decfd79e0b970e1d",
+            "sha256": "b9d6daf3232bc9c47e317c052f81de4ec25feedd719f4ddee2af20612b272b38",
             "type": "snapshot",
             "version": "26.2-snapshot-8"
         },
@@ -25,7 +25,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "2ae60474e90939d6b9ba7a5a9a248e05dd71e1b517adea6b62474d90346961d1",
+            "sha256": "c3720a081aa7b89b78579766fd9e3af0a9f88928b59308bc386e9076e7ca0627",
             "type": "snapshot",
             "version": "26.2-snapshot-7"
         },
