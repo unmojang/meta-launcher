@@ -18,7 +18,7 @@
         },
         {
             "name": "authlib-injector",
-            "sha256": "ac091224c6bab47293029c5979d78b4e9908d360a541b8ac271ffd3cacf097cf",
+            "sha256": "532bcebc0e0142472859481f920431bacacb0b7773b39a952f56e403d6000437",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -33,12 +33,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "21e856ba732dd9953ff128c4d151eb78043b23ba472c717da4b019e3794b573f",
+            "sha256": "d5282f90955f692912a371357278c064c27857e70f17a83a9cf6df102d768bb9",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "2fbacb7235d9fb3e9940df892ef830cd57a66a0d05d46cf1a099b4134ae470ef",
+            "sha256": "d0b780f8001166c62421c230ffecc604f83fce811025f07d801b5b24fe62a0d6",
             "uid": "net.minecraft"
         },
         {
@@ -58,12 +58,12 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "11d23ba375019e2057564cc0566fdadc4be1a31844b60cda0c78bf448e001d6f",
+            "sha256": "6f9f774254ce3b54d7defe8162ba88319f792f2d165338512c09907883df84bb",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "758a6c79aee8ac4467c00fc253545c3b4d33baab7f7bea83e389ba656c22af33",
+            "sha256": "7f13f8edeb2bdd7f86c7dbd3d86a3c1afccb9209f107159440a5b9af2737135e",
             "uid": "org.lwjgl3"
         },
         {
