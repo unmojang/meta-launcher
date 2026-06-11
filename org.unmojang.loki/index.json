@@ -33,13 +33,6 @@
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-18T00:40:16+00:00",
-            "sha256": "7add28aee5fa195810a4df7f11cb7bbf873dd99459c3de0f064ab98d8ec443f2",
-            "type": "release",
-            "version": "2.5.0"
-        },
-        {
-            "recommended": false,
             "releaseTime": "2026-05-16T23:48:58+00:00",
             "sha256": "7e510bcde88c9175aa6b75ac269528a3741f9644abda4f2db4537295ed83ccd7",
             "type": "release",
