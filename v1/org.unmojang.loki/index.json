@@ -5,6 +5,13 @@
     "versions": [
         {
             "recommended": true,
+            "releaseTime": "2026-06-20T08:34:00+00:00",
+            "sha256": "c95d8443f8846d4ee29044d1f7162b1956193c2fe7e74cd59893082ab630f02e",
+            "type": "release",
+            "version": "2.6.1"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2026-06-02T01:25:01+00:00",
             "sha256": "079c58c41ae0d59824573f0178913f44dda2c4ef5685d470f60ef11a55bece79",
             "type": "release",
