@@ -8,7 +8,7 @@
     ],
     "name": "Intermediary Mappings",
     "order": 11,
-    "releaseTime": "2025-08-26T14:51:00+00:00",
+    "releaseTime": "2025-08-26T14:51:04+00:00",
     "requires": [
         {
             "equals": "25w35a",
