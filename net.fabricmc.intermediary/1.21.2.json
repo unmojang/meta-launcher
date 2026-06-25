@@ -8,7 +8,7 @@
     ],
     "name": "Intermediary Mappings",
     "order": 11,
-    "releaseTime": "2024-10-22T15:05:50+00:00",
+    "releaseTime": "2024-10-22T15:05:46+00:00",
     "requires": [
         {
             "equals": "1.21.2",
