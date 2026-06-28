@@ -2343,14 +2343,14 @@
         },
         {
             "recommended": true,
-            "releaseTime": "2024-04-16T14:03:50+00:00",
+            "releaseTime": "2024-04-16T14:03:46+00:00",
             "requires": [
                 {
                     "equals": "1.20.5-pre3",
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "f3a5c063d868b5613a70d5a21675070444b6827f60d2e56052b5a50bf1cfbb57",
+            "sha256": "07d5fb187c45e764a16c2b101b6d4f5416598654af01bccaf1fc34b12a9baf51",
             "type": "release",
             "version": "1.20.5-pre3",
             "volatile": true
