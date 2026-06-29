@@ -73,7 +73,7 @@
         },
         {
             "name": "Loki",
-            "sha256": "750056a6cd9dd45c8a5aa63f1c4b50bec72e42ea4f0e3f34a6eea1bcac18b92a",
+            "sha256": "dd8f40aa6bd8eeb39cc4d8570d8483472bccc63dda35859e2849b6899a84dcee",
             "uid": "org.unmojang.loki"
         }
     ]
