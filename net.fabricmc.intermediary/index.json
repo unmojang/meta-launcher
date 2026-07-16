@@ -3071,14 +3071,14 @@
         },
         {
             "recommended": true,
-            "releaseTime": "2023-05-31T13:46:12+00:00",
+            "releaseTime": "2023-05-31T13:46:16+00:00",
             "requires": [
                 {
                     "equals": "1.20-rc1",
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "ae0804df5b071019bcd375e881f7af8325246259ac196f3687ae5c9142d8a7d0",
+            "sha256": "56cdb0bd314331cc45f48677b72594a5c8d8e7bd763e8fa623f5948ed18b7f17",
             "type": "release",
             "version": "1.20-rc1",
             "volatile": true
