@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "Java Runtimes",
-            "sha256": "94edb1409c5f05c0a116dddef7a29beb405531d3960151b10ad6948bb2fdfce2",
+            "sha256": "7761da982b1160c750b11edf9d45018dab63bce23debce1c4d2ff7151cfea5b6",
             "uid": "com.azul.java"
         },
         {
@@ -33,27 +33,27 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "6f54b85e6f4afb579f0def740908eb66405d75008efe1263e564d1f5c9b247b4",
+            "sha256": "a950659a9a0de922df80065b27263efd021442505edc78fad00563aff144a237",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "73236521aa582ab567470e4c2a5f73b580e3ecc0ec3dcb1fa351d871b44987b8",
+            "sha256": "40db646d493e3be838bed76782e512c8b6d499ff66b8e8d529129fe97abd9c16",
             "uid": "net.minecraft"
         },
         {
             "name": "Java Runtimes",
-            "sha256": "7ac306c5222edb0eb8d93e0bf5d7d04e980187aa9ed9abff71d95b0c842781e4",
+            "sha256": "12f46edf3701dcd5c48ceb185e51cae5d1ad10a7ddb2f814ac1ece2e59d4ddd7",
             "uid": "net.minecraft.java"
         },
         {
             "name": "Forge",
-            "sha256": "b657b8152f85b962d7b0a79a6e8214e64b611239fc0181085bdd7cbb6582e68f",
+            "sha256": "b9ef7d7144341143bb107dba55fa7f41afa7aaebeb736130351eae8cc8cbbb7a",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "387cf58ea570fe1ab9da97d316b0f7770479682e704f5e87f97950f6b9f6088f",
+            "sha256": "fe202e4e16bcff4408e385bf53aa949f2b7d175ad1ed2893793bc16ad48815a0",
             "uid": "net.neoforged"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "2bb232474eaeaed686f0438d516154bd757473d6e7e8ee320cbb145ae3f2e8f6",
+            "sha256": "f682aafad5039969d59777beb13c06127b534c604955a4b16df2f6bddc2af9a0",
             "uid": "org.lwjgl3"
         },
         {
