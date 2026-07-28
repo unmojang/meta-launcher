@@ -33,7 +33,7 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "edd136f42536793118b34181fa36f7e1cf2d86620f2fdb1b56aba21bfbfd5d28",
+            "sha256": "5a806655f88ed81a0fb0c29b1d159240c8fc8f614fea0cec5d1d8cad12127666",
             "uid": "net.fabricmc.intermediary"
         },
         {
@@ -53,7 +53,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "ec9d717166647d58b58056af6d9ed634958864745d97a0b8eb0df80a3262161d",
+            "sha256": "401990d6157052762e88d4f8632f4aa79ea357e748cafb07cf282244e0edfe99",
             "uid": "net.neoforged"
         },
         {
