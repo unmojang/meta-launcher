@@ -23,7 +23,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "87a5359644028e53443f275b741dc6e731997934188bbc03f53f39e38e3e32ec",
+            "sha256": "901cf9b22918f9adf02f1cd956642d66b9d49e4817f5599b2c7708a5ea52fb73",
             "uid": "net.adoptium.java"
         },
         {
