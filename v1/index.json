@@ -23,7 +23,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "0bff126e3446cc41ed91e8581e9e5e64ba007f5b4008a5ffd022afb575834036",
+            "sha256": "607b6354ef89b5db9098bbd838651e7efdea2e7e48502b81091c32fb6e40739a",
             "uid": "net.adoptium.java"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "fbe5d7e2cbb8812be02c8368eab00a6ccb3665aeb6a58c232db1b9bd983ec7ce",
+            "sha256": "8c963fa9ade75fe79194a8093ab7ed6d963fd9c6ad8556b86934c116cbd2f267",
             "uid": "org.lwjgl3"
         },
         {
