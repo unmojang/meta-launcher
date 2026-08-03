@@ -1949,13 +1949,13 @@
         },
         {
             "recommended": false,
-            "releaseTime": "2019-04-29T05:22:58+00:00",
+            "releaseTime": "2019-04-29T05:23:00+00:00",
             "requires": [
                 {
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ab493015ddce990c40b46cbc4b276ad143eb361fd0f995700aa5d02592740b83",
+            "sha256": "2b20efed587e576411181c63f61748a4af9ec32088874963a8501a7e8ed9d152",
             "type": "release",
             "version": "0.4.6+build.141"
         },
