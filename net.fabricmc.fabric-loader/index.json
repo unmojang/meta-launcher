@@ -809,13 +809,13 @@
         },
         {
             "recommended": false,
-            "releaseTime": "2022-04-20T19:37:44+00:00",
+            "releaseTime": "2022-04-20T19:37:58+00:00",
             "requires": [
                 {
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "cb078415d28efff61d4f05591f8f27f34802bcdc35aff4c65f22aab4a87d51d9",
+            "sha256": "6c3ccd1c2469f9e511403a99a1610ccfbf9b9f97d81accd87bd1fc89e164efa0",
             "type": "release",
             "version": "0.14.0"
         },

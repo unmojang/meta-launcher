@@ -23,12 +23,12 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "ad7cac29e34c3424f509f179d6495671218907a38b8b8ddbf83cafc1624177dc",
+            "sha256": "9f64e0666bbead7de1ce6ef9572c31fe281753807592b9320c0d0fc461780461",
             "uid": "net.adoptium.java"
         },
         {
             "name": "Fabric Loader",
-            "sha256": "98229f5d6d8705429fbe8ae0e4ee86e269d8bc086a88dcc8e05440f109e249a1",
+            "sha256": "41df2faa608c1a6f7347eb7eb736eadc38d9ed0b4a9fe635602fbaca8bbb59ce",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
