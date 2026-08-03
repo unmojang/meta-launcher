@@ -2045,13 +2045,13 @@
         },
         {
             "recommended": false,
-            "releaseTime": "2019-04-25T20:37:15+00:00",
+            "releaseTime": "2019-04-25T20:37:12+00:00",
             "requires": [
                 {
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "b686024d130100f50a415265935f86b445a27a120b68bceb22f20a6d3c14851c",
+            "sha256": "8204cf59298dfcf6808a1849b0fb9e09b7a06f1de51d595d7bd7f885ad44ad88",
             "type": "release",
             "version": "0.4.3+build.133"
         },
