@@ -28,7 +28,7 @@
         },
         {
             "name": "Fabric Loader",
-            "sha256": "41df2faa608c1a6f7347eb7eb736eadc38d9ed0b4a9fe635602fbaca8bbb59ce",
+            "sha256": "3cde30e2169f4762de9dde986e7bbe4c1bad27fe613a55a7427cce90f4486c77",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
