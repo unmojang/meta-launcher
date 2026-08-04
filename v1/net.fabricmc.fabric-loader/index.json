@@ -173,13 +173,13 @@
         },
         {
             "recommended": false,
-            "releaseTime": "2025-07-29T15:23:38+00:00",
+            "releaseTime": "2025-07-29T15:24:33+00:00",
             "requires": [
                 {
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "900a7fad178704a85f367b7efdec628d058a6a3f0e1881287e4dc6a04ef6c498",
+            "sha256": "f4b2b742c7f2b9df97966f958399dfb8b0204950cae0d0abdd34a3fedba6e905",
             "type": "release",
             "version": "0.17.0"
         },

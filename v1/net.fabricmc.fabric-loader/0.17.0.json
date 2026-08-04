@@ -33,7 +33,7 @@
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "name": "Fabric Loader",
     "order": 10,
-    "releaseTime": "2025-07-29T15:23:38+00:00",
+    "releaseTime": "2025-07-29T15:24:33+00:00",
     "requires": [
         {
             "uid": "net.fabricmc.intermediary"
