@@ -2441,13 +2441,13 @@
         },
         {
             "recommended": false,
-            "releaseTime": "2019-01-20T20:07:06+00:00",
+            "releaseTime": "2019-01-20T20:07:11+00:00",
             "requires": [
                 {
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "a655f151a691ca262a59f8796f4839178747b76299645289fdb6db03f728df15",
+            "sha256": "7e4a1fb320281d824d81b85e28d35f76d88e0ddafa4381f4a2e1c9c1052043f9",
             "type": "release",
             "version": "0.3.3.100"
         },
