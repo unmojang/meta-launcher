@@ -1349,13 +1349,13 @@
         },
         {
             "recommended": false,
-            "releaseTime": "2020-04-06T23:13:04+00:00",
+            "releaseTime": "2020-04-06T23:12:56+00:00",
             "requires": [
                 {
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "e27f0943cdafb28f21f4aa87c67e4a7458a946c0efabd9076a97d947f2491354",
+            "sha256": "97868e1f1697718436809f2d1e2f5a0b8b0d5b279ccff6c75b48147b14ac8060",
             "type": "release",
             "version": "0.8.2+build.194"
         },
