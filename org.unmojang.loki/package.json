@@ -6,8 +6,6 @@
     "formatVersion": 1,
     "name": "Loki",
     "projectUrl": "https://github.com/unmojang/Loki",
-    "recommended": [
-        "2.6.4"
-    ],
+    "recommended": [],
     "uid": "org.unmojang.loki"
 }
