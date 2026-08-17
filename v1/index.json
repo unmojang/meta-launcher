@@ -33,12 +33,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "85d94bdf15297c9c31ee9f02a38bf2bdfc9278661b0e7cfd8c8defe569d49b3c",
+            "sha256": "bc870f89ef3954b2db4f11398b7e5145c50243ecc30fdbafb86e3721f8831237",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "f9e8dd9fba46a3c26a93781552e4659b4c69417c910811e38fb976e094ebea29",
+            "sha256": "d7051fb5972bd144f412557abd11f69098643670729496476797e1f5c5a06f75",
             "uid": "net.minecraft"
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "name": "Loki",
-            "sha256": "99aef9827b9e7a11e69de5286e91b495966c5f73826170f0c2bad4ac263956e0",
+            "sha256": "9cfe69a7c084e5b40bd127e63107c0c4a558ad8005adcb2f1224c16e6c2b7e49",
             "uid": "org.unmojang.loki"
         }
     ]
