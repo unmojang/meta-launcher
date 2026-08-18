@@ -8,7 +8,7 @@
     ],
     "name": "Intermediary Mappings",
     "order": 11,
-    "releaseTime": "2026-08-04T11:49:07+00:00",
+    "releaseTime": "2025-10-30T16:49:06+00:00",
     "requires": [
         {
             "equals": "26.3-snapshot-7",
