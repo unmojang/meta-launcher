@@ -60,13 +60,13 @@
         {
             "recommended": false,
             "releaseTime": "2021-10-27T13:36:51+00:00",
-            "sha256": "1b163c32040710e704949d3e9ab2c8bb6fe42c192af2efaa0219aed9c828d8f9",
+            "sha256": "942b77d79a5e200b07336f736753dfa0186bac42e4bbd0ce47e9ff88f70efebf",
             "version": "java17"
         },
         {
             "recommended": false,
             "releaseTime": "2021-08-01T13:49:49+00:00",
-            "sha256": "18bd2e4940388a9db98a25af650959114db9f15f7937ab82401a2e2e02a02a93",
+            "sha256": "e46f0288af01c80f44222738bda8a0bb86efc014b7223ad8ea3c05b9f57d5a54",
             "version": "java11"
         },
         {
