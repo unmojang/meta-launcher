@@ -10,6 +10,19 @@
                 }
             ],
             "recommended": false,
+            "releaseTime": "2026-08-25T12:53:43+00:00",
+            "sha256": "29852608b9c8aec324636d0b3c42ae0f2b8e2744879708297fbe75981d875e33",
+            "type": "release",
+            "version": "3.4.3",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
             "releaseTime": "2026-07-28T12:25:51+00:00",
             "sha256": "aeaddb5c9e1343f2b04b17f87d1bd3b4650b1da37d4a48aceab0482c5cfe6a68",
             "type": "release",
