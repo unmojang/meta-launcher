@@ -63,7 +63,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "1d3df0af067d58a42c6684db1658795774e903169c1c902fc0c6aa2600c249fb",
+            "sha256": "edbb0a12ff4f2933f36654ed6530c6c20d1fc4be6d97a0699d28614fc2a16fc3",
             "uid": "org.lwjgl3"
         },
         {
