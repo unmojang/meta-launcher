@@ -48,7 +48,7 @@
         },
         {
             "name": "Forge",
-            "sha256": "7f0daeaf661c8ef76a99b4a0c5bdb53967e487517044b8b7ced62eb688beb3e9",
+            "sha256": "5511c1a6d70f5f28ce9c1ce58b79dd2d8ff9d26b6213cb3807e90d5baab87a33",
             "uid": "net.minecraftforge"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "9c4684dfb4611cafe7b05690fb54a4dd11ffa52f7c61ed9da5ab2ee13327bef6",
+            "sha256": "1c187b095e7b6ffc58cd6716c35a7398e7d55f8633129de43ba17e660b1a3a36",
             "uid": "org.lwjgl3"
         },
         {
