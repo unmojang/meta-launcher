@@ -8,7 +8,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "ba38674c1a5b2f59d07bef6536d0590d3e2d61976a35a591076b0e90bb49f82b",
+            "sha256": "a510979d9893fc8aecaf72432ed9a41715eff920b4671d1e44e259f7fd0ad01c",
             "uid": "com.ibm.java"
         },
         {
@@ -53,7 +53,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "3e268abf566c5ee9c2554a0b42d72d382fbf383579a33b30267bc04ece76f3a6",
+            "sha256": "bbed9ab7d0dd28983871954e23da49f8f85ad2e3c3d57ebe38f0966bf16bfe7d",
             "uid": "net.neoforged"
         },
         {
