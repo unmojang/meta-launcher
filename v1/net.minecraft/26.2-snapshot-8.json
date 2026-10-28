@@ -8,10 +8,10 @@
     ],
     "assetIndex": {
         "id": "31",
-        "sha1": "4b8509596e2b738217ae963b30f9026442e7359c",
+        "sha1": "0b1dd47143210835a5135dd97805cdbcab263d08",
         "size": 575392,
-        "totalSize": 480889014,
-        "url": "https://piston-meta.mojang.com/v1/packages/4b8509596e2b738217ae963b30f9026442e7359c/31.json"
+        "totalSize": 481098853,
+        "url": "https://piston-meta.mojang.com/v1/packages/0b1dd47143210835a5135dd97805cdbcab263d08/31.json"
     },
     "compatibleJavaMajors": [
         25
@@ -222,7 +222,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-arm64"
                     }
                 }
             ]
@@ -318,12 +318,6 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux"
-                    }
-                },
-                {
-                    "action": "allow",
-                    "os": {
                         "name": "linux-arm32"
                     }
                 }
@@ -339,12 +333,6 @@
             },
             "name": "dev.onvoid.webrtc:webrtc-java:0.14.0:linux-aarch64",
             "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux"
-                    }
-                },
                 {
                     "action": "allow",
                     "os": {
@@ -381,12 +369,6 @@
             },
             "name": "dev.onvoid.webrtc:webrtc-java:0.14.0:macos-aarch64",
             "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx"
-                    }
-                },
                 {
                     "action": "allow",
                     "os": {
