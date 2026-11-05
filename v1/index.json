@@ -23,7 +23,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "c4935ed8cbdc1db7b90c4e336dacfe34204de9cc446f93b2bf9fb46736f51824",
+            "sha256": "823817a4aaee6a8b34eaa1605fbf84ab0fae128056bd4de21c1ffc7007d6d52b",
             "uid": "net.adoptium.java"
         },
         {
@@ -68,7 +68,7 @@
         },
         {
             "name": "Quilt Loader",
-            "sha256": "4dcfecc67b93fcddd09df2e919d259b922370c7ec8e2f1ed16df531e521b0679",
+            "sha256": "22c8698cdf5f5eb4e886603bc9c06c82d445eea90dfa25f8e14d66935a832a87",
             "uid": "org.quiltmc.quilt-loader"
         },
         {
