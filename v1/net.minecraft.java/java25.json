@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "name": "Java 25",
-    "releaseTime": "2026-10-22T08:18:33+00:00",
+    "releaseTime": "2025-12-10T14:14:17+00:00",
     "runtimes": [
         {
             "checksum": {
@@ -65,42 +65,40 @@
         },
         {
             "checksum": {
-                "hash": "0905e6eb4791b41d9d2c0fe4094e19e7e7aba090",
+                "hash": "3f0593d019d72bb47805f9e0f07b850cec398afa",
                 "type": "sha1"
             },
             "downloadType": "manifest",
             "name": "java-runtime-epsilon",
             "packageType": "jre",
-            "releaseTime": "2026-11-18T13:25:17+00:00",
+            "releaseTime": "2025-12-10T14:21:40+00:00",
             "runtimeOS": "windows-arm64",
-            "url": "https://piston-meta.mojang.com/v1/packages/0905e6eb4791b41d9d2c0fe4094e19e7e7aba090/manifest.json",
+            "url": "https://piston-meta.mojang.com/v1/packages/3f0593d019d72bb47805f9e0f07b850cec398afa/manifest.json",
             "vendor": "mojang",
             "version": {
-                "build": 1,
                 "major": 25,
                 "minor": 0,
-                "name": "25.0.5.1",
-                "security": 5
+                "name": "25.0.0",
+                "security": 0
             }
         },
         {
             "checksum": {
-                "hash": "f2103540f9bcafee0e0f9a0c4ea3ef0c6242271b",
+                "hash": "b374544c680d965fb5535977d7cb04c6befe1930",
                 "type": "sha1"
             },
             "downloadType": "manifest",
             "name": "java-runtime-epsilon",
             "packageType": "jre",
-            "releaseTime": "2026-11-18T13:32:12+00:00",
+            "releaseTime": "2025-12-10T14:14:17+00:00",
             "runtimeOS": "windows-x64",
-            "url": "https://piston-meta.mojang.com/v1/packages/f2103540f9bcafee0e0f9a0c4ea3ef0c6242271b/manifest.json",
+            "url": "https://piston-meta.mojang.com/v1/packages/b374544c680d965fb5535977d7cb04c6befe1930/manifest.json",
             "vendor": "mojang",
             "version": {
-                "build": 1,
                 "major": 25,
                 "minor": 0,
-                "name": "25.0.5.1",
-                "security": 5
+                "name": "25.0.1",
+                "security": 1
             }
         },
         {

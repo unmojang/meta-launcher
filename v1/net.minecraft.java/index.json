@@ -5,8 +5,8 @@
     "versions": [
         {
             "recommended": false,
-            "releaseTime": "2026-10-22T08:18:33+00:00",
-            "sha256": "71f2abfb75d8570a04eb2d23c7d32b769abca4cb4b438080e8266de4c3717467",
+            "releaseTime": "2025-12-10T14:14:17+00:00",
+            "sha256": "698b41078760a1ac7484d37b31805a80cecedac8a4ecec793ad8d8131dc35d1a",
             "version": "java25"
         },
         {

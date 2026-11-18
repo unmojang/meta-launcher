@@ -13,17 +13,17 @@
         },
         {
             "name": "LiteLoader",
-            "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
+            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
             "uid": "com.mumfrey.liteloader"
         },
         {
             "name": "authlib-injector",
-            "sha256": "1899a0dcd896ccdf92f1d16e756ee96861204eb13ca4992ac0767a42115da87d",
+            "sha256": "bfb5f4ecea4b171ec05897740884689ff30bd83c312b5badcac4d7e1a409bf29",
             "uid": "moe.yushi.authlibinjector"
         },
         {
             "name": "Java Runtimes",
-            "sha256": "7caeab9e29870ebbfa8cd9d5afd4317fdaeb59f024d0dde8fd5a89d3bc9dc03b",
+            "sha256": "93a4a17cd78884dcea6c81fc466f8312df096eff664ffc1cf6cd5b1cf7b2efb8",
             "uid": "net.adoptium.java"
         },
         {
@@ -33,22 +33,22 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "28221b05d3948f256ccfec4022b5dc21078440c30cd586a7a5107d100b617c49",
+            "sha256": "79519fad89023387cb5f004d46a83190f48988575a32b23641554275ab40f875",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "cf2695fefca02a871f3f80a0aaf2106ba425eed3fad435ad80c6c60584d3a000",
+            "sha256": "c31be100b926d0d6615b4386cc89748c3cc6206efa7aa5d7afce5722e85f687d",
             "uid": "net.minecraft"
         },
         {
             "name": "Java Runtimes",
-            "sha256": "35694f1fe6bb4aa36be0ad31546105443564eebe77204147ea7158b1c45422d1",
+            "sha256": "f33fe8706df729ebe4b19a30c5f50d35d2cd26ba5a70f8589da84b3c2c6a61c7",
             "uid": "net.minecraft.java"
         },
         {
             "name": "Forge",
-            "sha256": "db44eb0c324bbb5794262c15f369614bbe0d6b083f9bc192b264d717c8403b20",
+            "sha256": "31580108e0db4e539747117558c186f47321c71a0c57aed3b54197564a969ad1",
             "uid": "net.minecraftforge"
         },
         {
@@ -58,12 +58,12 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "a7d68eacc226dc273ae481bd03a65e65f688077a4f858c94b8d23b792e6b6536",
+            "sha256": "8ab1291546866c3eab9a8785d77172821688dd48c8717a879b4dff512f51550b",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "11670943d306408e69d58ebafc5284499c3e628a0e838e88d006bacfe2f091cf",
+            "sha256": "606ab387b68a14515a3af2c6af27b860760f1e536ba2e0d4ec1c2797d11f6a53",
             "uid": "org.lwjgl3"
         },
         {
