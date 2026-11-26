@@ -23,7 +23,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "4554a3b99fd0633f42273ab0e99afb27fd3afdb168f4d4be69cd3f747506e18d",
+            "sha256": "f891ff878d53829230d7ac918953fa10672c3a1e768ff0b362de568015b59ad6",
             "uid": "net.adoptium.java"
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "name": "Minecraft",
-            "sha256": "f9f1de713a8ea03aa75f02fb8f232d93db3ba3f3c3555e8c039060f956e3a5c0",
+            "sha256": "afd7f3f4ebdee2e98a0b959906bd0d9cc09be200e590464f21fa48244fe3213e",
             "uid": "net.minecraft"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "e655d5d8bc1eb06d4246699f6f31f783609521bbe84cd52ddab31a726aa12f84",
+            "sha256": "6a8cb4bef5c496fad56f45ae917851f82af563c723b4f9d5f9cd0afda5692daf",
             "uid": "org.lwjgl3"
         },
         {
